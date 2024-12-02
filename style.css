@@ -101,6 +101,7 @@
 
 .main-2 .header > div > p {
   font-size: 14px;
+  color: rgba(0, 0, 0, 0.75);
 }
 .main-2 .header .button .button-1 {
   display: flex;
@@ -196,7 +197,7 @@
 }
 .main-2 .hero-section-2-a a {
   text-decoration: none;
-  color: black;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .ac-1-p-2 {
@@ -224,7 +225,7 @@
 .ac-1-p-2 button {
   padding: 5px 10px;
   border-radius: 5px;
-  border: none;
+  color: rgba(0, 0, 0, 0.75);
   font-size: 15px;
   display: flex;
   align-items: center;
